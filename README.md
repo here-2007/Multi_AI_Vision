@@ -3,20 +3,35 @@
 This repository contains four independent deep learning models combined into a single integrated system for multi-domain image classification and analysis.  
 
 ##  Repository Structure
+
 ├── models/
+
 │ ├── object_classifier.ipynb
+
 │ ├── plant_disease_detector.ipynb
+
 │ ├── chest_xray_anomaly.ipynb
+
 │ ├── face_emotion_detector.ipynb
+
 │
+
 ├── sample_images/
+
 │ ├── object_sample.jpg
+
 │ ├── plant_sample.jpg
+
 │ ├── xray_sample.jpg
+
 │ ├── face_sample.jpg
+
 │
+
 ├── main_interference.ipynb
+
 ├── README.md
+
 ---
 
 ##  Models Overview
